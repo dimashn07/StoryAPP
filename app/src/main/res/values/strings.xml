@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">Story App HN</string>
+    <string name="preview">Preview</string>
+    <string name="add_story">Add Story</string>
+    <string name="logout">Log Out</string>
+    <string name="retry">Retry</string>
+
+    <!-- Authentication -->
+    <string name="input_email">Input Your Email</string>
+    <string name="invalid_email">Invalid Format</string>
+    <string name="input_pass">Input Your Password</string>
+    <string name="pass_length">Password must be at least 8 characters</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="name_required">Name is required</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+
+    <!-- Story Creation -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="input_image_first">Input Your Image First!</string>
+    <string name="didnt_get_permission">Didn\'t get permission</string>
+
+    <!-- Splash Screen -->
+    <string name="splashText">designed by dimashn</string>
+
+    <!-- Login Page -->
+    <string name="message_login_page">Please enter your data</string>
+    <string name="title_login_page">Welcome to the Story App HN</string>
+
+    <!-- Signup Page -->
+    <string name="title_signup_page">Complete your data below</string>
+
+    <!-- Maps -->
+    <string name="maps">Maps Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="check_input">Check Your Input</string>
+    <string name="maps_title">Maps</string>
+    <string name="story_from">Story from : </string>
+
+</resources>
